@@ -1,0 +1,19 @@
+.nav-bar{
+    /* overflow: hidden; */
+    background-color: aquamarine;
+    z-index: -2;
+    /* position: fixed;
+    top: 0; */
+}
+
+.font-awesome .fa{
+    font-family: "Font Awesome 5 Free", Open Sans;
+    font-weight:501;
+  }
+
+.dropdown-search{
+    width: 3rem;
+}
+.footer{
+    bottom: 0px;
+}
